@@ -159,8 +159,8 @@ that are not found anywhere in the fiber product — I shall be calling the
 evident maps from _C_ to these sets the _«fringes»_ of a pullback.
 
 So, to summarize, a _«pre-pullback with fringes»_ of sets _A_ and _B_ along some
-arrows with a common target _C_ is a tuple of type _⟨C ⇸ {A}; C ⇸ {B} ;C ⇸ ⟨{A};
-{B}⟩ ⟩_, that may be computed efficiently and from which a usual pullback may be
+arrows with a common target _C_ is a tuple of type _⟨C ⇸ {A}; C ⇸ {B}; C ⇸ ⟨{A};
+{B}⟩⟩_, that may be computed efficiently and from which a usual pullback may be
 further obtained. Since it is just as good and even better than a usual fiber
 product, I shall refer to this construction simply as _«pullback»_.
 
